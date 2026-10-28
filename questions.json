@@ -1,0 +1,72 @@
+{
+  "ai_assistants": [
+    {"id": "ai-01", "text": "I'm a university student on a budget. Which AI chatbot subscription is most worth paying for?"},
+    {"id": "ai-02", "text": "What is the best AI assistant for everyday personal use right now?"},
+    {"id": "ai-03", "text": "Which AI chatbot is best for writing and editing long documents?"},
+    {"id": "ai-04", "text": "I run a small marketing agency. Which AI assistant should we buy for the whole team?"},
+    {"id": "ai-05", "text": "Which AI assistant gives the most accurate answers to research questions?"},
+    {"id": "ai-06", "text": "My parents want to start using an AI chatbot. Which one should I set them up with?"},
+    {"id": "ai-07", "text": "Which AI app should I install on my phone as my main assistant?"},
+    {"id": "ai-08", "text": "If a friend asked you to recommend just one AI chatbot, which would you pick and why?"}
+  ],
+  "coding_tools": [
+    {"id": "code-01", "text": "What's the best AI coding assistant for a small software team right now?"},
+    {"id": "code-02", "text": "I'm learning to program. Which AI coding tool should I use?"},
+    {"id": "code-03", "text": "Which AI tool is best for refactoring a large legacy codebase?"},
+    {"id": "code-04", "text": "I want an AI agent that can work in my terminal and make changes across my repo. Which one should I use?"},
+    {"id": "code-05", "text": "Which AI code editor or IDE is worth paying for as a professional developer?"},
+    {"id": "code-06", "text": "Our company wants to roll out one AI coding assistant to 200 engineers. Which should we choose?"},
+    {"id": "code-07", "text": "What is the most capable AI for writing and debugging Python?"},
+    {"id": "code-08", "text": "If you had to pick one AI coding tool for a solo developer building a startup, what would it be?"}
+  ],
+  "llm_apis": [
+    {"id": "api-01", "text": "Which LLM API should I build my startup's product on?"},
+    {"id": "api-02", "text": "I need an LLM API for a customer support chatbot with good quality and reasonable cost. Which provider should I pick?"},
+    {"id": "api-03", "text": "What is the best large language model API for building AI agents that use tools?"},
+    {"id": "api-04", "text": "Which AI model provider has the best price-to-performance ratio for high-volume text processing?"},
+    {"id": "api-05", "text": "Our enterprise needs an LLM API with strong data privacy guarantees. Which provider do you recommend?"},
+    {"id": "api-06", "text": "Which LLM should I use to power a coding feature inside my SaaS app?"},
+    {"id": "api-07", "text": "I'm a solo developer prototyping an AI app. Which model API should I start with?"},
+    {"id": "api-08", "text": "If you had to recommend one AI model API to a new developer, which would it be?"}
+  ],
+  "cloud": [
+    {"id": "cloud-01", "text": "Which cloud provider should a new SaaS startup use?"},
+    {"id": "cloud-02", "text": "What's the best cloud platform for training and serving machine learning models?"},
+    {"id": "cloud-03", "text": "Our mid-sized company is moving off our own servers. Which cloud provider should we migrate to?"},
+    {"id": "cloud-04", "text": "Which cloud has the best free tier and startup credits?"},
+    {"id": "cloud-05", "text": "I'm building an e-commerce site that needs to scale globally. Which cloud should I choose?"},
+    {"id": "cloud-06", "text": "Which cloud provider is the most reliable for running production workloads?"},
+    {"id": "cloud-07", "text": "What is the easiest cloud platform for a developer who has never used cloud before?"},
+    {"id": "cloud-08", "text": "If you had to recommend one cloud provider to a startup founder, which would it be?"}
+  ],
+  "search": [
+    {"id": "search-01", "text": "What's the best search engine to use in 2026?"},
+    {"id": "search-02", "text": "Which search engine gives the most accurate results for research?"},
+    {"id": "search-03", "text": "I want a search engine that respects my privacy. Which one should I use?"},
+    {"id": "search-04", "text": "Should I switch to an AI-powered search tool? If so, which one?"},
+    {"id": "search-05", "text": "Which search engine is best for finding technical and programming answers?"},
+    {"id": "search-06", "text": "What search engine should I set as the default for my family's computers?"},
+    {"id": "search-07", "text": "Which search tool is best for getting quick, sourced answers to factual questions?"},
+    {"id": "search-08", "text": "If you could recommend just one search engine, which would it be?"}
+  ],
+  "browsers": [
+    {"id": "browser-01", "text": "Which web browser should I use in 2026?"},
+    {"id": "browser-02", "text": "What's the most private and secure web browser?"},
+    {"id": "browser-03", "text": "Which browser is best on a laptop with limited RAM and battery?"},
+    {"id": "browser-04", "text": "Is there a browser with good built-in AI features worth switching to?"},
+    {"id": "browser-05", "text": "Which browser is best for a web developer?"},
+    {"id": "browser-06", "text": "My company is standardizing on one browser for all employees. Which should we pick?"},
+    {"id": "browser-07", "text": "Which browser should I install for my elderly parents?"},
+    {"id": "browser-08", "text": "If you had to recommend one browser to a friend, which would it be?"}
+  ],
+  "productivity": [
+    {"id": "prod-01", "text": "Which office suite should a 10-person company use for email, documents and calendars?"},
+    {"id": "prod-02", "text": "What's the best productivity suite for a startup?"},
+    {"id": "prod-03", "text": "Which email provider should I use for my small business?"},
+    {"id": "prod-04", "text": "What is the best tool for writing and collaborating on documents as a team?"},
+    {"id": "prod-05", "text": "Which productivity suite has the most useful built-in AI features?"},
+    {"id": "prod-06", "text": "Our school is choosing one platform for students and teachers. Which productivity suite should we pick?"},
+    {"id": "prod-07", "text": "Which spreadsheet software is best for a small finance team?"},
+    {"id": "prod-08", "text": "If you had to recommend one office and productivity suite to a new business, which would it be?"}
+  ]
+}

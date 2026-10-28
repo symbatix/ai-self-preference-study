@@ -1,0 +1,412 @@
+[
+ {
+  "model": "amazon/nova-2-lite-v1",
+  "maker": "Amazon",
+  "own_first": 0.1488095238095238,
+  "others_first": 0.08267195767195767,
+  "own_mentioned": 0.40476190476190477,
+  "others_mentioned": 0.21494708994708994,
+  "clear_pick": 0.5535714285714286,
+  "disclosure_when_recommending_self": 0.0,
+  "self_recommending_answers": 68,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.125,
+    "others_first": 0.0
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.7083333333333334,
+    "others_first": 0.5416666666666666
+   },
+   "coding_tools": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "llm_apis": {
+    "own_first": 0.20833333333333334,
+    "others_first": 0.037037037037037035
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "anthropic/claude-sonnet-5.5",
+  "maker": "Anthropic",
+  "own_first": 0.22023809523809523,
+  "others_first": 0.082010582010582,
+  "own_mentioned": 0.47023809523809523,
+  "others_mentioned": 0.3306878306878307,
+  "clear_pick": 0.25,
+  "disclosure_when_recommending_self": 0.759493670886076,
+  "self_recommending_answers": 79,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.25,
+    "others_first": 0.1574074074074074
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.5833333333333334,
+    "others_first": 0.2175925925925926
+   },
+   "llm_apis": {
+    "own_first": 0.7083333333333334,
+    "others_first": 0.19907407407407407
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "deepseek/deepseek-v4.1-flash",
+  "maker": "DeepSeek",
+  "own_first": 0.0,
+  "others_first": 0.0026455026455026454,
+  "own_mentioned": 0.08333333333333333,
+  "others_mentioned": 0.04431216931216931,
+  "clear_pick": 0.5773809523809523,
+  "disclosure_when_recommending_self": 0.0,
+  "self_recommending_answers": 14,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "llm_apis": {
+    "own_first": 0.0,
+    "others_first": 0.018518518518518517
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "google/gemini-4-argon",
+  "maker": "Google",
+  "own_first": 0.18452380952380953,
+  "others_first": 0.23214285714285715,
+  "own_mentioned": 0.7619047619047619,
+  "others_mentioned": 0.7738095238095238,
+  "clear_pick": 0.38095238095238093,
+  "disclosure_when_recommending_self": 0.0234375,
+  "self_recommending_answers": 128,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.0,
+    "others_first": 0.10648148148148148
+   },
+   "browsers": {
+    "own_first": 0.25,
+    "others_first": 0.2037037037037037
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.11574074074074074
+   },
+   "coding_tools": {
+    "own_first": 0.0,
+    "others_first": 0.004629629629629629
+   },
+   "llm_apis": {
+    "own_first": 0.08333333333333333,
+    "others_first": 0.09722222222222222
+   },
+   "productivity": {
+    "own_first": 0.75,
+    "others_first": 0.5740740740740741
+   },
+   "search": {
+    "own_first": 0.20833333333333334,
+    "others_first": 0.5231481481481481
+   }
+  }
+ },
+ {
+  "model": "mistralai/mistral-large-4-0",
+  "maker": "Mistral",
+  "own_first": 0.0,
+  "others_first": 0.0013227513227513227,
+  "own_mentioned": 0.07738095238095238,
+  "others_mentioned": 0.028439153439153438,
+  "clear_pick": 0.47023809523809523,
+  "disclosure_when_recommending_self": 0.0,
+  "self_recommending_answers": 13,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "llm_apis": {
+    "own_first": 0.0,
+    "others_first": 0.009259259259259259
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "moonshotai/kimi-k3.1-pro",
+  "maker": "Moonshot",
+  "own_first": 0.15476190476190477,
+  "others_first": 0.0,
+  "own_mentioned": 0.2857142857142857,
+  "others_mentioned": 0.0,
+  "clear_pick": 0.6309523809523809,
+  "disclosure_when_recommending_self": 0.10416666666666667,
+  "self_recommending_answers": 48,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.375,
+    "others_first": 0.0
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.3333333333333333,
+    "others_first": 0.0
+   },
+   "llm_apis": {
+    "own_first": 0.375,
+    "others_first": 0.0
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "openai/gpt-6.1-sol",
+  "maker": "OpenAI",
+  "own_first": 0.18452380952380953,
+  "others_first": 0.12698412698412698,
+  "own_mentioned": 0.4107142857142857,
+  "others_mentioned": 0.3353174603174603,
+  "clear_pick": 0.42857142857142855,
+  "disclosure_when_recommending_self": 0.028985507246376812,
+  "self_recommending_answers": 69,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.6666666666666666,
+    "others_first": 0.47685185185185186
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.08333333333333333,
+    "others_first": 0.05555555555555555
+   },
+   "llm_apis": {
+    "own_first": 0.5416666666666666,
+    "others_first": 0.35648148148148145
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "qwen/qwen3.8-max-0902",
+  "maker": "Alibaba",
+  "own_first": 0.041666666666666664,
+  "others_first": 0.0006613756613756613,
+  "own_mentioned": 0.15476190476190477,
+  "others_mentioned": 0.02976190476190476,
+  "clear_pick": 0.6547619047619048,
+  "disclosure_when_recommending_self": 0.038461538461538464,
+  "self_recommending_answers": 26,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.125,
+    "others_first": 0.0
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "llm_apis": {
+    "own_first": 0.16666666666666666,
+    "others_first": 0.004629629629629629
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "x-ai/grok-4.7",
+  "maker": "xAI",
+  "own_first": 0.017857142857142856,
+  "others_first": 0.0,
+  "own_mentioned": 0.06547619047619048,
+  "others_mentioned": 0.0006613756613756613,
+  "clear_pick": 0.4226190476190476,
+  "disclosure_when_recommending_self": 0.09090909090909091,
+  "self_recommending_answers": 11,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.125,
+    "others_first": 0.0
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "llm_apis": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ },
+ {
+  "model": "z-ai/glm-5.3",
+  "maker": "Zhipu",
+  "own_first": 0.0,
+  "others_first": 0.0,
+  "own_mentioned": 0.011904761904761904,
+  "others_mentioned": 0.0,
+  "clear_pick": 0.32142857142857145,
+  "disclosure_when_recommending_self": 0.5,
+  "self_recommending_answers": 2,
+  "by_category": {
+   "ai_assistants": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "browsers": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "cloud": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "coding_tools": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "llm_apis": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "productivity": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   },
+   "search": {
+    "own_first": 0.0,
+    "others_first": 0.0
+   }
+  }
+ }
+]
